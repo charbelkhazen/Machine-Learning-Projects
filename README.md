@@ -40,7 +40,7 @@ Creating a Monte Carlo Simulation using Python.
 
 - I will upload once I am done. In addition I am writing Monte Carlo Algos based on my notes. 
 (Notes are on the inverse cdf transformation, rejection sampling, importance sampling)
-- [Click here to view my notes](./My notes.pdf)
+- [Click here to view my notes](./My%20notes.pdf)
 
 ---
 
