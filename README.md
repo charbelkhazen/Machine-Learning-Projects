@@ -31,7 +31,7 @@ Illustrated Linear bayesian regression concepts.
 I discuss the following concepts : Root squared mean, Overfitting, Ridge Regressin, Deriving Ridge Regression from Maximum likelihood, Markov chains...
 I will update the code as I progress.
 
-- [Theoretical%20Framework%20for%20Linear%20Bayesian%20Regressions%20.ipynb](Theoretical%20Framework%20for%20Linear%20Bayesian%20Regressions%20.ipynb)
+- [Theoretical Framework for Linear Bayesian Regressions .ipynb](Theoretical%20Framework%20for%20Linear%20Bayesian%20Regressions%20.ipynb)
 
 ---
 
